@@ -12,5 +12,3 @@ Do not expect any funny jokes here.
 [Lawyers](Lawyers/content.md)
 
 -- Washington
-=======
-[Lawyers](Lawyers/content.md)
